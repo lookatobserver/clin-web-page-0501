@@ -51,6 +51,8 @@ function HeroSection() {
           </span>
 
           <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black leading-tight tracking-tight text-white animate-fade-up">
+            <span className="text-[#FCD34D]">클</span>라우드{' '}
+            <span className="text-[#FCD34D]">인</span>프라로<br />
             비즈니스의 혁신을 이끄는<br />
             <span className="text-[#93C5FD]">완벽한 IT 파트너</span>,<br />
             주식회사 클인(CLIN)
