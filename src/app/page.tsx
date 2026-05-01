@@ -509,7 +509,7 @@ function ContactSection() {
         <div className="mt-8 flex flex-col sm:flex-row justify-center gap-6 text-sm text-[#BAD6F9]">
           <span className="flex items-center gap-2">
             <span className="text-[#93C5FD]">📧</span>
-            contact@cloudinfra.co.kr
+            info@cloudinfra.co.kr
           </span>
           <span className="flex items-center gap-2">
             <span className="text-[#93C5FD]">🌐</span>
