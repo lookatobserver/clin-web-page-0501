@@ -566,8 +566,8 @@ function Footer() {
         <div className="mt-8 pt-6 border-t border-[#0F1F30] flex flex-col sm:flex-row items-center justify-between gap-3 text-xs">
           <span>© 2020 주식회사 클인(CLIN). All rights reserved.</span>
           <div className="flex gap-5">
-            <a href="#" className="hover:text-white transition-colors">개인정보처리방침</a>
-            <a href="#" className="hover:text-white transition-colors">이용약관</a>
+            <a href="/privacy" className="hover:text-white transition-colors">개인정보처리방침</a>
+            <a href="/terms" className="hover:text-white transition-colors">이용약관</a>
           </div>
         </div>
       </div>
