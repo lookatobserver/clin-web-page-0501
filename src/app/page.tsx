@@ -47,7 +47,7 @@ function HeroSection() {
       <div className="relative max-w-7xl mx-auto px-6 lg:px-8 py-24 lg:py-36 w-full">
         <div className="max-w-3xl">
           <span className="inline-block text-xs font-bold tracking-widest uppercase px-3 py-1 rounded-full mb-6 bg-white/10 text-[#93C5FD]">
-            Cloud · Dev · Marketing
+            Cloud · DevOps · Consulting
           </span>
 
           <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black leading-tight tracking-tight text-white animate-fade-up">
@@ -310,14 +310,14 @@ const useCases = [
     year: '금융 · 엔터프라이즈',
     color: '#0B3D9B',
     tags: ['AWS', 'EKS', 'Migration'],
-    title: '신한은행 · 라이나생명',
+    title: '시중 은행 · 생명보험사',
     projects: [
       {
-        client: '신한은행',
-        desc: 'O2O 배달 플랫폼 "땡겨요" 앱 클라우드 인프라 구축. AWS EKS 기반 컨테이너 환경 및 MSA 아키텍처 설계·운영.',
+        client: '시중 은행',
+        desc: 'O2O 배달 플랫폼 앱 클라우드 인프라 구축. AWS EKS 기반 컨테이너 환경 및 MSA 아키텍처 설계·운영.',
       },
       {
-        client: '라이나생명',
+        client: '생명보험사',
         desc: '채널계 시스템 전면 클라우드 마이그레이션. AWS 기반 EKS 클러스터 도입으로 배포 속도 및 안정성 대폭 향상.',
       },
     ],
@@ -326,10 +326,10 @@ const useCases = [
     year: '멀티클라우드 · AI',
     color: '#0E7490',
     tags: ['OCI', 'Azure', 'AI Agent'],
-    title: '고려해운',
+    title: '국내 주요 해운사',
     projects: [
       {
-        client: '고려해운',
+        client: '국내 주요 해운사',
         desc: 'OCI(Oracle Cloud Infrastructure)와 Azure를 연계한 멀티클라우드 환경 구축. AI Agent 워크로드를 위한 GPU 인스턴스 및 리소스 최적화 세팅 수행.',
       },
     ],
@@ -338,18 +338,18 @@ const useCases = [
     year: '대규모 인프라 TA',
     color: '#1D4ED8',
     tags: ['Public Cloud', 'Private Cloud', 'TA'],
-    title: 'LG U+ · 삼성SDS · 롯데면세점',
+    title: '통신사 · IT 서비스사 · 유통 대기업',
     projects: [
       {
-        client: 'LG U+',
+        client: '국내 주요 통신사',
         desc: '대규모 퍼블릭 클라우드 전환 기술 어드바이저리(TA) 수행. 클라우드 아키텍처 검증 및 마이그레이션 로드맵 수립.',
       },
       {
-        client: '삼성SDS',
+        client: '대형 IT 서비스사',
         desc: '프라이빗 클라우드 인프라 기술 자문. 하이브리드 클라우드 전략 컨설팅 및 아키텍처 설계 지원.',
       },
       {
-        client: '롯데면세점',
+        client: '유통 대기업 면세 플랫폼',
         desc: '이커머스 플랫폼 클라우드 인프라 기술 어드바이저리. 대용량 트래픽 처리를 위한 오토스케일링 아키텍처 설계.',
       },
     ],
